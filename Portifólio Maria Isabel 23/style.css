@@ -1,0 +1,11 @@
+body{
+background-color: blue;
+display:flex
+justify-content:center;
+height: 100vh;
+}
+
+ing{
+    border-radius: 100px;
+    wodth: 100px;
+}
